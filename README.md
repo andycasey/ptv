@@ -1,3 +1,7 @@
-# Catch the bus
+# PTV API Client 
 
-Don't miss it.
+A Python client for the Public Transport of Victoria API.
+
+# Authors
+
+- [Andy Casey](http://astrowizici.st)
